@@ -31,22 +31,9 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
   
   * When a user enters their email address, it's added to the section of the README entitled Questions, with instructions on how to reach them with additional questions.
   
-  * When a user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README.     
-
-## Table of Contents
-- [Working with ES6 \& Node.js: Professional README Generator](#working-with-es6--nodejs-professional-readme-generator)
-- [User Story:](#user-story)
-- [Project Requirements:](#project-requirements)
-  - [Table of Contents](#table-of-contents)
-  - [Description:](#description)
-  - [Installation:](#installation)
-  - [Usage:](#usage)
-  - [License:](#license)
-  - [Contributing:](#contributing)
-  - [Tests:](#tests)
-  - [Questions:](#questions)
-
- ## Description:
+  * When a user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README.    
+  
+# Description:
   * My project is a Professional README Generator. The project will help a user to generate a "Readme-File" without having any issues, applying proper mark down syntax.
   
   * This README generator will allow the user to answer a series of specific questions and create a professional complete README based on their responses. It will take a couple minutes and provide the developer with the ability to make their project complete and more professional, increasing the likely hood that someone will want to use their app over similar apps without a README.
@@ -55,6 +42,20 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
   
   * This README file was created with this app, however manual changes have been added. We can see all the changes "generated-READMe.md" file.
 
+ 
+# Table of Contents
+- [Working with ES6 \& Node.js: Professional README Generator](#working-with-es6--nodejs-professional-readme-generator)
+- [User Story:](#user-story)
+- [Project Requirements:](#project-requirements)
+- [Table of Contents](#table-of-contents)
+  - [Installation:](#installation)
+  - [Usage:](#usage)
+  - [License:](#license)
+  - [Contributing:](#contributing)
+  - [Tests:](#tests)
+  - [Questions:](#questions)
+
+ 
 ## Installation:
   * Make sure that your repo includes a package.json with the required dependencies. 
   
