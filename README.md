@@ -42,7 +42,7 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
   
   * This README file was created with this app, however manual changes have been added. We can see all the changes "generated-READMe.md" file.
   
-  # Image Links of this Project:
+# Image Link of this Project:
  ![alt](./images/img-1.png)
 
 # Video Links of this Project:
@@ -54,7 +54,7 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
 - [User Story:](#user-story)
 - [Project Requirements:](#project-requirements)
 - [Project Description:](#project-description)
-- [Image Links of this Project:](#image-links-of-this-project)
+- [Image Link of this Project:](#image-link-of-this-project)
 - [Video Links of this Project:](#video-links-of-this-project)
 - [Table of Contents](#table-of-contents)
   - [Installation:](#installation)
