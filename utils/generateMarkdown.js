@@ -1,8 +1,8 @@
-// Function to return a message if user doesn't want contributors
+// Create Function to return a message for contributors, if user doesn't want contributors ****
 function renderContributingSection(confirmContributers, data) {
   if (!confirmContributers) {
     return `
-  Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
+  Thank you for your interest in helping out; Pull requests are welcome. For major changes, please open an issue first to discuss by send email, what you would like to change.
     `;
   } else {
     return `
@@ -11,8 +11,9 @@ function renderContributingSection(confirmContributers, data) {
   }
 }
 
-// Function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Create Function that returns a license badge ****
+
+// If there is no license, then return an empty string--
 function renderLicenseBadge(license) {
   if (license !== 'no license') {
     return `
@@ -23,8 +24,9 @@ function renderLicenseBadge(license) {
   }
 }
 
-// Function that returns the license link
-// If there is no license, return an empty string
+// Create Function that returns the license link ****
+
+// If there is no license, then return an empty string--
 function renderLicenseLink(license) {
   if (license !== 'no license') {
     return `
@@ -35,8 +37,9 @@ function renderLicenseLink(license) {
   }
 }
 
-// Function that returns the license section of README
-// If there is no license, return an empty string
+// Create Function that returns the license section of README ****
+
+// If there is no license, then return an empty string--
 function renderLicenseSection(license) {
   if (license !== 'no license') {
     return `
@@ -51,8 +54,9 @@ function renderLicenseSection(license) {
   }
 }
 
-// Function that returns license in table of contents
-// If there is no license, return an empty string
+// Create Function that returns license in table of contents ****
+
+// If there is no license, then return an empty string--
 function renderLicenseTOC(license) {
   if (license !== 'no license') {
     return `
@@ -63,7 +67,7 @@ function renderLicenseTOC(license) {
   }
 }
 
-// Function to generate markdown for README
+// Create Function to generate markdown for README ****
 function generateMarkdown(data) {
   return `
   # ${data.title}
@@ -86,7 +90,6 @@ function generateMarkdown(data) {
 
   ${data.why}
 
-  ${data.how}
 
   ## [Installation](#table-of-contents)
 
@@ -95,10 +98,6 @@ function generateMarkdown(data) {
   ## [Usage](#table-of-contents)
 
   ${data.usage}
-  
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
   
   ${renderLicenseSection(data.license)}
 

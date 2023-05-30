@@ -1,5 +1,5 @@
 
-  # Readme Generator 
+  # Readme Generator
   
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
@@ -19,23 +19,18 @@
   
   ## [Description](#table-of-contents)
 
-  undefined
+  This README generator will allow the user to answer a series of specific questions and create a professional complete README based on their responses. It will take a couple minutes and provide the developer with the ability to make their project complete and more professional, increasing the likely hood that someone will want to use their app over similar apps without a README.
 
-  undefined
+  I built a command-line application that dynamically generates a professional README.md file from a user's input. The project will help a user to generate a "Readme-File" without having any issues, applying proper mark down syntax.
 
-  undefined
 
   ## [Installation](#table-of-contents)
 
-  we can use npm install for this project.
+  I used for installation - npm install.
 
   ## [Usage](#table-of-contents)
 
   After installation is complete, run the following code: ‘node inex.js’ in the terminal. Answer the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘File created!’, and you should see your file under the ‘dist’ folder called ‘generatedREADME’. It’s generated in mark down syntax so you can copy and paste that code into your project!
-  
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
   
   
   ## [License](#table-of-contents)
@@ -50,7 +45,7 @@
   ## [Contributing](#table-of-contents)
   
   
-  Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
+  Thank you for your interest in helping out; Pull requests are welcome. For major changes, please open an issue first to discuss by send email, what you would like to change.
     
 
   ## [Tests](#table-of-contents)
@@ -61,6 +56,6 @@
 
   Please contact me using the following links:
 
-  [GitHub](https://github.com/undefined)
+  [GitHub](https://github.com/khnfarha1987)
 
   [Email: khnfarha1987@gmail.com](mailto:khnfarha1987@gmail.com)
