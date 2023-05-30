@@ -34,13 +34,13 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
   * When a user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README.     
 
 ## Table of Contents
- * [Description](#Description of this Project)
- * [Installation]
- * [Usage] 
- * [License]
- * [Contributing]
- * [Tests]
- * [Questions]
+
+- [Working with ES6 \& Node.js: Professional README Generator](#working-with-es6--nodejs-professional-readme-generator)
+- [User Story:](#user-story)
+- [Project Requirements:](#project-requirements)
+  - [Table of Contents](#table-of-contents)
+  - [\[Description\](#Table of Contents)](#descriptiontable-of-contents)
+  - [\[Installation\](#Table of Contents)](#installationtable-of-contents)
   
  ## [Description](#Table of Contents)
   * My project is a Professional README Generator. The project will help a user to generate a "Readme-File" without having any issues, applying proper mark down syntax.
@@ -53,6 +53,7 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
 
 ## [Installation](#Table of Contents)
   * Make sure that your repo includes a package.json with the required dependencies. 
+  
   * We can create one by running by this command when you first set up the project, before installing any dependencies.
    ```
   npm init
