@@ -1,11 +1,13 @@
 
-  # readme-generator
+  # Readme Generator 
   
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
     
 
   ## Table-of-Contents
+
+  * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
   
@@ -25,7 +27,7 @@
 
   ## [Installation](#table-of-contents)
 
-  We can create one by running by this command when you first set up the project, before installing any dependencies.
+  we can use npm install for this project.
 
   ## [Usage](#table-of-contents)
 
@@ -53,7 +55,7 @@
 
   ## [Tests](#table-of-contents)
 
-  
+  To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder ‘Readme-Generator-node.js’, and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’ file in the ‘dist’ folder.
 
   ## [Questions](#table-of-contents)
 

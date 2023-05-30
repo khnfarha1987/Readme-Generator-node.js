@@ -25,13 +25,13 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'project-description',
+        name: 'description',
         message: 'What is your project and provide a short description of this project.',
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'Please provide step-by-step installation instructions for your project.',
+        message: 'Please provide installation instructions for this project.',
 
     },
     {
