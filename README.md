@@ -33,4 +33,23 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
   
   * When a user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README.     
 
+# Table of Contents:
+  * Description of this Project:
+  * Installation
+  * Usage 
+  * License
+  * Contributing
+  * Tests
+  * Questions
+
+# Description of this Project:
+  * My project is a Professional README Generator. The project will help a user to generate a "Readme-File" without having any issues, applying proper mark down syntax.
+  
+  * This README generator will allow the user to answer a series of specific questions and create a professional complete README based on their responses. It will take a couple minutes and provide the developer with the ability to make their project complete and more professional, increasing the likely hood that someone will want to use their app over similar apps without a README.
+  
+  * It will take user's input and create a quality README file with sections like: The title of my project, Sections entitled, Description, Table of Contents, Installation, Usage, License, Contributing, Tests, Questions.
+  
+  * This README file was created with this app, however manual changes have been added. We can see all the changes "generated-READMe.md" file.
+
+
 
