@@ -46,9 +46,8 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
  ![alt](./images/img-1.png)
 
  # Video Links of this Project:
- ![alt](./images/mov-1.gif)
-
- ![alt](./images/mov-2.gif)
+   ![alt](./images/mov-1.gif)
+   ![alt](./images/mov-2.gif)
 
 # Table of Contents
 - [Working with ES6 \& Node.js: Professional README Generator](#working-with-es6--nodejs-professional-readme-generator)
