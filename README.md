@@ -34,15 +34,19 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
   * When a user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README.     
 
 ## Table of Contents
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
-  * [Questions](#questions)
+- [Working with ES6 \& Node.js: Professional README Generator](#working-with-es6--nodejs-professional-readme-generator)
+- [User Story:](#user-story)
+- [Project Requirements:](#project-requirements)
+  - [Table of Contents](#table-of-contents)
+  - [Description:](#description)
+  - [Installation:](#installation)
+  - [Usage:](#usage)
+  - [License:](#license)
+  - [Contributing:](#contributing)
+  - [Tests:](#tests)
+  - [Questions:](#questions)
 
-
- ## Description
+ ## Description:
   * My project is a Professional README Generator. The project will help a user to generate a "Readme-File" without having any issues, applying proper mark down syntax.
   
   * This README generator will allow the user to answer a series of specific questions and create a professional complete README based on their responses. It will take a couple minutes and provide the developer with the ability to make their project complete and more professional, increasing the likely hood that someone will want to use their app over similar apps without a README.
@@ -51,7 +55,7 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
   
   * This README file was created with this app, however manual changes have been added. We can see all the changes "generated-READMe.md" file.
 
-## Installation
+## Installation:
   * Make sure that your repo includes a package.json with the required dependencies. 
   
   * We can create one by running by this command when you first set up the project, before installing any dependencies.
@@ -62,5 +66,24 @@ Challenge 11 : In this Challenge, we'll build a command-line application that dy
   ```
   npm install
   ```
+
+## Usage:
+After installation is complete, run the following code: ‘node inex.js’ in the terminal. Answer the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘File created!’, and you should see your file under the ‘dist’ folder called ‘generatedREADME’. It’s generated in mark down syntax so you can copy and paste that code into your project!
+
+## License:
+This readme-generator-project uses the "MIT" license.
+
+ ## Contributing:
+ Thank you for your interest in helping out; Pull requests are welcome. For major changes, please open an issue first to discuss by send email, what you would like to change.
+
+## Tests:
+To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder ‘Readme-Generator-node.js’, and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’ file in the ‘dist’ folder.
+    
+## Questions:
+Please contact me if you have any questions, using the following links:
+
+  [GitHub](https://github.com/khnfarha1987)
+
+  [Email: khnfarha1987@gmail.com](mailto:khnfarha1987@gmail.com)
 
 
